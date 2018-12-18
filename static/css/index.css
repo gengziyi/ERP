@@ -1,0 +1,10 @@
+*{margin: 0;padding: 0;}
+li{list-style: none;}
+header{
+	background: #409eff;
+	color: #fff;
+	line-height: 60px;
+}
+.danger{
+	color: #f56c6c;
+}
